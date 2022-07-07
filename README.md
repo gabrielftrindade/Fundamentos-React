@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Fundamentos React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+npm start
+```
 
-## Available Scripts
+## 1 - Criando o projeto básico
+https://gist.github.com/gabrielftrindade/ebec1e8c4d35ab65846f7f36469c48bb
 
-In the project directory, you can run:
+## 2 - Criando o primeiro componente funcional
+https://gist.github.com/gabrielftrindade/cca9cf1aa600ef8fa89390aa2a0437a3
 
-### `npm start`
+## 3 - Criando o segundo componente com parametros
+https://gist.github.com/gabrielftrindade/bfdfd7a561db453486204e644ab7f3e9
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 4 - Criando o componente fragment
+https://gist.github.com/gabrielftrindade/26b08746e08a3398f87de78ddf9e8b8c
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 5 - Criando o componente App
+https://gist.github.com/gabrielftrindade/814cbe240ec7fee74c6bd6c348695011
 
-### `npm test`
+## 6 - Criando o componente Card
+https://gist.github.com/gabrielftrindade/39f24406c28bd6015057be10d6a284b5
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 7 - Criando o componente com Filho
+https://gist.github.com/gabrielftrindade/2729b549029013e26643b9e495159fab
 
-### `npm run build`
+## 8 - Criando o componente de Repetição
+https://gist.github.com/gabrielftrindade/59ae0bdf80e13f33b8faae14ff6abb94
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 9 - Criando o componente Condicional
+https://gist.github.com/gabrielftrindade/ed615d704b4faa05bc149c79d476b723
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 10 - Comunicação Direta
+https://gist.github.com/gabrielftrindade/3b8309937c4b0375d73d46c403d65e18
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 10 - Comunicação Indireta
+https://gist.github.com/gabrielftrindade/483c107cc0084bd26cc8c2e605718b75
 
-### `npm run eject`
+## 11 - Criando o Componente com Estado
+https://gist.github.com/gabrielftrindade/8c13448565fee41bb1bb0f52b56a5efc
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 12 - Criando o Componente Controlado
+https://gist.github.com/gabrielftrindade/9a07ab39489d4b345ec81edfbf221a62
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 13 - Contador
+https://gist.github.com/gabrielftrindade/7979403d11b7ced8efaf48104b77f5a9
