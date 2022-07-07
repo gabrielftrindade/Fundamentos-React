@@ -4,6 +4,8 @@
 npm start
 ```
 
+> https://gist.github.com/gabrielftrindade/9b9c154bf0f4a8564c481106ba806416
+
 ## 1 - Criando o projeto básico
 https://gist.github.com/gabrielftrindade/ebec1e8c4d35ab65846f7f36469c48bb
 
